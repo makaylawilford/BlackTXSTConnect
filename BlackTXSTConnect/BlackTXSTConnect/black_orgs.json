@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "African Student Association",
+    "category": "Cultural",
+    "description": "ASA aims to bring African students together at Texas State",
+    "contact": "texasstateaso@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Alpha Kappa Alpha Sorority, Inc. (Sigma Epsilon Chapter)",
+    "category": "Greek",
+    "description": "Alpha Kappa Alpha’s mission is to cultivate and encourage high scholastic and ethical standards, to promote unity and friendship among college women, to study and help alleviate problems concerning girls and women in order to improve their social stature, to maintain a progressive interest in college life, and to be of “Service to All Mankind.",
+    "contact": ""
+  },
+  {
+    "id": 3,
+    "name": "Alpha Phi Alpha Fraterity, Inc. (Mu Nu Chapter)",
+    "category": "Greek",
+    "description": "Alpha Phi Alpha",
+    "contact": ""
+  },
+  {
+    "id": 4,
+    "name": "Being Black Artist Productions",
+    "category": "Community",
+    "description": "Being Black Artists, is a Black-queer youth led organization dedicated to creating communal art that uplifts Black voices and stories through a lens of authenticity and equal opportunity. Amplifying the voices of a community that has been silenced; BBAs ultimate goal is to be the catalyst for black artists to be encouraged, celebrated, and uplifted all while being authentically themselves.  As artists, We are committed to using our platform to shed light on the rich and diverse experiences of the Black community. We strive to not only provide a platform for their voices to be heard, but also to empower and inspire them to create unapologetically.",
+    "contact": "Beblackartist2gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Black Health Professions",
+    "category": "Professional",
+    "description": "",
+    "contact": "bhporg@txstate.edu"
+  },
+  {
+    "id": 6,
+    "name": "Black Healthcare Association",
+    "category": "Professional",
+    "description": "Eligibility for membership in the Black Healthcare Association is contingent on enrollment at Texas State University-Round Rock campus, with an interest in a healthcare profession. While the organization emphasizes recruiting members who are part of the healthcare field, membership is open to all majors. Texas State University is committed to an inclusive educational and work environment that provides equal opportunity and access to all qualified persons. Texas State, to the extent not in conflict with federal or state law, prohibits discrimination on the basis of race, color, national origin, age, sex, religion, disability, veterans’ status, sexual orientation, gender identity, or gender expression.",
+    "contact": "TXSTBHA@gmail.com"
+  },
+  {
+    "id": 7,
+    "name": "Black Men United",
+    "category": "Community",
+    "description": "A brotherhood-based organization dedicated to the empowerment of black males through dialogue, skill development, and service. Black Men United serves as one of largest black organizations at Texas State and works to connect all black men on campus together to build a strong and influential community that serves its members and the greater student body as a whole.",
+    "contact": "bmu.org@txstate.edu"
+  },
+  {
+    "id": 8,
+    "name": "Black Presidents' Council",
+    "category": "Leadership",
+    "description": "Black Presidents' Council is a collective of Black org leaders dedicated to collaboration, planning events, and uplifting each other.",
+    "contact": "bpc@txstate.edu"
+  },
+  {
+    "id": 9,
+    "name": "Black Pre-Law Association",
+    "category": "Professional",
+    "description": "This organization will help give Black Pre-Law students a healthy environment to network and pursue legal education. This club provides students with information and skills needed to apply to law school and allows students to interact with other students who have similar goals.",
+    "contact": "bplassociation@txstate.edu"
+  },
+  {
+    "id": 10,
+    "name": "Black Student Alliance",
+    "category": "Community",
+    "description": "Our mission is to empower and unite Black students at Texas State University through cultural, educational, and social initiatives. We aim to foster a supportive community that celebrates diversity, promotes academic excellence, advocates for equity, and cultivates leadership among our members. Through collaborative efforts, we strive to amplify Black voices and promote positive change on campus and beyond.",
+    "contact": "bsa@txstate.edu"
+  },
+  {
+    "id": 11,
+    "name": "Black Student Athlete Alliance",
+    "category": "Community",
+    "description": "The mission of the Black Student-Athlete Alliance (BSAA) is to provide a safe place for athletes to be able to learn, educate, and understand each other better. BSAA encourages student-athletes to come together and open up about their lives on a deeper level. The goal is for each athlete to not only share their experiences but to listen to each other and try putting themselves in each other's shoes. There is more of a focus on the black student-athletes of each sport BUT the organization is open for everyone to come and share something about themselves. BSAA also serves as a place to be able to sit back and just unwind after a long day of classes, training, and studying.",
+    "contact": "Lms344@txstate.edu"
+  },
+  {
+    "id": 12,
+    "name": "Black Women United",
+    "category": "Community",
+    "description": "Black Women United is an organization for young women at Texas State. We offer community service hours, bi-weekly meetings, and fun events.",
+    "contact": "bwu@txstate.edu"
+  },
+  {
+    "id": 13,
+    "name": "Delta Sigma Theta Sorority, Inc. (Iota Omega Chapter)",
+    "category": "Greek",
+    "description": "Delta Sigma Theta",
+    "contact": "iotaomegadeltas@txtstate.edu"
+  },
+  {
+    "id": 14,
+    "name": "Hip Hop Congress",
+    "category": "Community",
+    "description": "Hip-Hop Culture, Discussions, and Performance.  Meetings Every Wednesday, 5:30-7pm, LBJ 326",
+    "contact": "hiphopcongress@txstate.edu"
+  },
+  {
+    "id": 15,
+    "name": "Iota Phi Theta Fraterity, Inc. (Iota Theta Chapter)",
+    "category": "Greek",
+    "description": "Iota Phi Theta",
+    "contact": ""
+  },
+  {
+    "id": 16,
+    "name": "Kappa Alpha Psi Fraterity, Inc. (Lambda Theta Chapter)",
+    "category": "Greek",
+    "description": "Kappa Alpha Psi",
+    "contact": ""
+  },
+  {
+    "id": 17,
+    "name": "Minorities and Philosophy Chapter at Texas State University",
+    "category": "Community",
+    "description": "Our mission is to address structural injustices in academic philosophy and to remove barriers that impede participation in academic philosophy for members of marginalized groups. We want to promote philosophical work done from marginalized perspectives, and help improve working conditions for scholars from marginalized backgrounds. To do this, we need to hear from you, so please share your thoughts and ideas, or even better, join us!",
+    "contact": "MAPbobcats@txstate.edu"
+  },
+  {
+    "id": 18,
+    "name": "National Association of Black Accountants",
+    "category": "Professional",
+    "description": "NABA aims to address the professional & personal needs of its members and build leaders who will shape the future of the business world through building community, networking, and professional engagement. Meetings are held on Thursdays in McCoy 42 at 5pm always with free food. We welcome to all majors and backgrounds!",
+    "contact": "txstnaba@outlook.com"
+  },
+  {
+    "id": 19,
+    "name": "NAACP",
+    "category": "Leadership",
+    "description": "The National Association for the Advancement of Colored People(NAACP) is a civil rights organization in the United States, formed in 1909 as an interracial endeavor to advance justice for African Americans by a group including W. E. B. Du Bois, Mary White Ovington, Moorfield Storey, Ida B. Wells, Lillian Wald, and Henry Moskowitz. Over the years, leaders of the organization have included Thurgood Marshall and Roy Wilkins.  Its mission in the 21st century is to ensure the political, educational, social, and economic equality of rights of all persons and to eliminate race-based discrimination. National NAACP initiatives include political lobbying, publicity efforts, and litigation strategies developed by its legal team. The group enlarged its mission in the late 20th century by considering issues such as police misconduct, the status of black foreign refugees and questions of economic development. Its name, retained in accordance with tradition, uses the once common term colored people, referring to those with some African ancestry.",
+    "contact": "txstnaacp@txstate.edu"
+  },
+  {
+    "id": 20,
+    "name": "National Society of Black Engineers",
+    "category": "Professional",
+    "description": "Our mission is to increase the number of culturally responsible black engineers who excel academically, succeed professionally, and positively impact the community!",
+    "contact": ""
+  },
+  {
+    "id": 21,
+    "name": "National Pan-Hellenic Council",
+    "category": "Greek",
+    "description": "The National Pan-Hellenic Council, Inc. (NPHC) at Texas State is the chief governing body for all historically African-American sororities and fraternities that are affiliated with the National Pan-Hellenic Council, Inc. The council serves as a coordinating body for all social activities, workshops, seminars, community service projects, as well as operating the student judicial board for the member sororities and fraternities.",
+    "contact": "nphc@txstate.edu"
+  },
+  {
+    "id": 22,
+    "name": "Omega Psi Phi Fraterity, Inc. (Xi Delta Chapter)",
+    "category": "Greek",
+    "description": "Omega Psi Phi",
+    "contact": ""
+  },
+  {
+    "id": 23,
+    "name": "Phi Beta Sigma Fraternity, Inc. (Pi Xi Chapter)",
+    "category": "Greek",
+    "description": "Phi Beta Sigma",
+    "contact": "PiXi1986@gmail.com"
+  },
+  {
+    "id": 24,
+    "name": "Sigma Gamma Rho Sorority, Inc. (Mu Phi Chapter)",
+    "category": "Greek",
+    "description": "Founded by 7 educators on November 12th, 1922, our illustrious organization strives to serve within our local communities and enhance the quality of life for women and their families through civil and social action. Our goal is to achieve greater progress in the areas of education, health awareness and leadership development.",
+    "contact": "txstate1922@gmail.com"
+  },
+  {
+    "id": 25,
+    "name": "Zeta Phi Beta Sorority, Inc. (Omicron Xi Chapter)",
+    "category": "Greek",
+    "description": "Zeta Phi Beta",
+    "contact": ""
+  }
+]
